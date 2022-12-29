@@ -6,5 +6,4 @@ https://motchallenge.net/data/MOT20/
 
 
 Лабораторные работы:
-
 1. https://colab.research.google.com/drive/1uSmSQmezw2TPAGupQguP0dGbxxoTG9Hn
